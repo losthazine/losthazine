@@ -1,4 +1,4 @@
-## Haii Welcome to Hazines's place 👋
+## Haii Welcome to Hazine's place 👋
 
 I'm a Computer Engineering student with a strong interest in software development and a creative side rooted in graphic design. I'm still figuring things out, but I enjoy learning by building projects, experimenting with ideas, and improving a little every day. 
 
@@ -29,7 +29,7 @@ C / C++
 HTML, CSS, and JavaScript
 
 
-- Software & Tools
+- Software Tools
 
 Git & Github
 
