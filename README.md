@@ -1,16 +1,36 @@
-## Hi there 👋
+## Haii Welcome to Hazines's place 👋
 
 <!--
 **losthazine/losthazine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student with a strong interest in software development and a creative side rooted in graphic design. I'm still figuring things out, but I enjoy learning by building projects, experimenting with ideas, and improving a little every day. 
+
+I create whatever I hyperfixate on at the moment. I like working at the intersection of logic and visuals.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strengthening my software development fundamentals
+Building small projects to explore different technologies
+Learning more about UI/UX-minded development
+Improving my problem-solving and coding confidence
+
+- 🌱 Tools & Technologies
+- Languages
+Python
+C / C++
+HTML, CSS, and JavaScript
+
+- Software & Tools
+Git & Github
+VS Code
+
+- Creative Tools
+Figma
+Photoshop
+Procreate
+
+📫 How to Reach Me
+
+GitHub: You're already here!
+Email: losthazine@gmail.com
+Portfolio: losthazine.com
+
